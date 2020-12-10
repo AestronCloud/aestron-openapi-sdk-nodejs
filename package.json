@@ -1,0 +1,28 @@
+{
+  "name": "@aestron/sms-openapi-sdk",
+  "version": "0.0.1",
+  "description": "Aestron openapi sdk for Nodejs - Use Aestron openapi sdk client in your Nodejs project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sdk",
+    "Aestron",
+    "library",
+    "client"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "urllib": "^2.36.1"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
