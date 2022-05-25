@@ -6,7 +6,7 @@ class SmsClient {
         /**
          * sms client host
          */
-        this.host = 'https://sms.bigo.sg/';
+        this.host = 'https://smsapi.aestron.net/';
 
         /**
          * http timeOut
