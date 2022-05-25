@@ -1,6 +1,6 @@
 {
   "name": "@aestron/sms-openapi-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Aestron openapi sdk for Nodejs - Use Aestron openapi sdk client in your Nodejs project",
   "main": "src/index.js",
   "scripts": {
